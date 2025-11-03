@@ -15,11 +15,6 @@
 ##  Project Overview
 
 This project intricately analyzes the U.S. healthcare landscape from 2019 to 2020, offering profound insights into key facets of the industry. It is meticulously designed, with each page unfolding a different chapter, providing valuable learnings within the evolving healthcare narrative. Explore the heartbeat of healthcare, where every word is meticulously chosen for a meaningful journey.
-
-**Check out the interactive Power BI dashboard below to explore the insights and findings visually:**
-
-[![Power BI]
-
 ---
 
 ## Key Features
