@@ -18,7 +18,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 **Check out the interactive Power BI dashboard below to explore the insights and findings visually:**
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Viraj%20Bhutada-gold?logo=powerbi&style=flat&logoColor=white)](https://app.powerbi.com/links/x_BEXo8_4A?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare&bookmarkGuid=ef4fde42-5ed7-4a3a-b773-200d74946dec)
+[![Power BI]
 
 ---
 
@@ -120,13 +120,6 @@ Find issues, suggest enhancements, or contribute to the project by opening an [i
 
 ---
 
-
-[![License](https://img.shields.io/badge/License-MIT-silver)](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/LICENSE)
-
-This PowerBI-driven initiative is licensed under the [MIT License](LICENSE), focusing on providing comprehensive insights into the U.S. healthcare industry from 2019 to 2020. The meticulously designed reports and visualizations offer strategic intelligence for stakeholders in the healthcare landscape.
-
----
-
 ## Conclusion
 
 The U.S. Healthcare Industry Dynamics project for 2019-2020 offers a comprehensive and insightful analysis of the healthcare landscape, utilizing advanced data analytics and visualization tools. Through meticulous data cleaning, DAX calculations, and interactive visualizations, this project provides valuable insights and strategic intelligence for healthcare stakeholders. 
@@ -155,7 +148,4 @@ This project underscores the importance of leveraging data analytics in the heal
 
 ---
 
-### Connect With Me
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
 
